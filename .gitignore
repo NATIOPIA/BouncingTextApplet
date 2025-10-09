@@ -1,0 +1,24 @@
+# Ignore NetBeans build folders
+/build/
+/dist/
+/nbproject/private/
+
+# Ignore compiled Java files
+*.class
+
+# Ignore NetBeans project files that are auto-generated
+nbproject/private/
+build/
+build.xml
+manifest.mf
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Java policy files
+applet.policy
+
+# Ignore logs and temp files
+*.log
+*.tmp
