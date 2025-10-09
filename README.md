@@ -147,3 +147,7 @@ Concepts like threading, GUI rendering, and sandbox security learned from applet
 ```cmd
 git add README.txt
 git commit -m "Add Critical Analysis README.txt"
+
+Push to GitHub:
+git push
+
