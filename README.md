@@ -2,9 +2,9 @@
 
 **Project Name:** BouncingTextApplet  
 **Course:** Java Programming – Chapter 2 Challenge: Applet Archaeologist  
-**Author / Student:** Natnael Tsedeke  
+**Student:** Natnael Tsedeke  
 **Student ID:** RMNS/7783-/23  
-**University / College:** Dilla University  
+**University:** Dilla University  
 **Department:** Computer Science  
 **Instructor:** Mr. Yared  
 
